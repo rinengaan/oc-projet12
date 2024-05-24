@@ -36,9 +36,11 @@
         ],
         "tags": ["HTML", "CSS", "Responsive", "VSCode", "Figma"],
         "pictures": [
-            "src/assets/booki/Mock0.png",
-            "src/assets/booki/Mock1.png",
-            "src/assets/booki/Mock2.png"
+            "../assets/projects/booki/Mock0.png",
+            "../assets/projects/booki/Mock1.png",
+            "../assets/projects/booki/Mock2.png",
+            "../assets/projects/booki/Mock3.png",
+            "../assets/projects/booki/Mock4.png"
         ],
         "liens":["https://rinengaan.github.io/oc-projet3/","https://github.com/rinengaan/oc-projet3/tree/developpement"] 
     },
@@ -66,10 +68,10 @@
             "GitHub"
         ],
         "pictures": [
-            "src/assets/ohmyfood/Mock0.png",
-            "src/assets/ohmyfood/Mock1.png",
-            "src/assets/ohmyfood/Mock2.png",
-            "src/assets/ohmyfood/Mock3.png"
+            "../assets/projects/ohmyfood/Mock0.png",
+            "../assets/projects/ohmyfood/Mock1.png",
+            "../assets/projects/ohmyfood/Mock2.png",
+            "../assets/projects/ohmyfood/Mock3.png"
         ],
         "liens":["https://rinengaan.github.io/oc-projet4/","https://github.com/rinengaan/oc-projet4/tree/main"]
     },
@@ -87,10 +89,13 @@
         ],
         "tags": ["HTML", "CSS", "JavaScript", "VSCode"],
         "pictures": [
-            "src/assets/print-it/Mock0.png",
-            "src/assets/print-it/Mock1.png",
-            "src/assets/print-it/Mock2.png",
-            "src/assets/print-it/Mock3.png"
+            "../assets/projects/print-it/Mock0.png",
+            "../assets/projects/print-it/Mock1.png",
+            "../assets/projects/print-it/Mock2.png",
+            "../assets/projects/print-it/Mock3.png",
+            "../assets/projects/print-it/Mock4.png",
+            "../assets/projects/print-it/Mock5.png",
+            "../assets/projects/print-it/Mock6.png"
         ],
         "liens":["https://rinengaan.github.io/oc-projet5/","https://github.com/rinengaan/oc-projet5"]  
     },
@@ -110,11 +115,13 @@
         ],
         "tags": ["HTML", "CSS", "JavaScript", "Figma", "API", "Swagger"],
         "pictures": [
-            "src/assets/portfolio-sophie-bluel/Mock0.png",
-            "src/assets/portfolio-sophie-bluel/Mock1.png",
-            "src/assets/portfolio-sophie-bluel/Mock2.png",
-            "src/assets/portfolio-sophie-bluel/Mock3.png",
-            "src/assets/portfolio-sophie-bluel/Mock4.png"
+            "../assets/projects/portfolio-sophie-bluel/Mock0.png",
+            "../assets/projects/portfolio-sophie-bluel/Mock1.png",
+            "../assets/projects/portfolio-sophie-bluel/Mock2.png",
+            "../assets/projects/portfolio-sophie-bluel/Mock3.png",
+            "../assets/projects/portfolio-sophie-bluel/Mock4.png",
+            "../assets/projects/portfolio-sophie-bluel/Mock5.png",
+            "../assets/projects/portfolio-sophie-bluel/Mock6.png"
         ],
         "liens":["https://github.com/rinengaan/oc-projet6/tree/main"] 
     },
@@ -143,14 +150,9 @@
             "Figma"
         ],
         "pictures": [
-            "../assets/projects/projects/kasa/mock0.webp",
-            "../assets/projects/projects/kasa/mock1.webp",
-            "../assets/projects/projects/kasa/mock2.webp",
-            "../assets/projects/projects/kasa/mock3.webp",
-            "../assets/projects/projects/kasa/mock4.webp",
-            "../assets/projects/projects/kasa/mock5.webp",
-            "../assets/projects/projects/kasa/mock6.webp",
-            "../assets/projects/projects/kasa/mock7.webp"
+            "../assets/projects/kasa/Mock0.png",
+            "../assets/projects/kasa/Mock1.png",
+            "../assets/projects/kasa/Mock2.png"
         ],
         "liens":["https://github.com/rinengaan/oc-projet8"] 
     },
@@ -166,14 +168,13 @@
         "competences": ["Optimiser la performance d'un site web."],
         "tags": ["HTML", "CSS", "JavaScript", "Responsive", "SEO"],
         "pictures": [
-            "../assets/projects/projects/nina-carducci/mock0.webp",
-            "../assets/projects/projects/nina-carducci/mock1.webp",
-            "../assets/projects/projects/nina-carducci/mock2.webp",
-            "../assets/projects/projects/nina-carducci/mock3.webp",
-            "../assets/projects/projects/nina-carducci/mock4.webp",
-            "../assets/projects/projects/nina-carducci/mock5.webp",
-            "../assets/projects/projects/nina-carducci/mock6.webp",
-            "../assets/projects/projects/nina-carducci/mock7.webp"
+            "../assets/projects/nina carducci/Mock0.png",
+            "../assets/projects/nina carducci/Mock1.webp",
+            "../assets/projects/nina carducci/Mock2.webp",
+            "../assets/projects/nina carducci/Mock3.webp",
+            "../assets/projects/nina carducci/Mock4.png",
+            "../assets/projects/nina carducci/Mock5.webp"
+            
         ],
         "liens":["https://rinengaan.github.io/oc-projet9/","https://github.com/rinengaan/oc-projet9/tree/main"] 
     },
@@ -192,14 +193,11 @@
         ],
         "tags": ["React", "Tests", "Debug", "Chrome DevTools"],
         "pictures": [
-            "../assets/projects/projects/724events/mock0.webp",
-            "../assets/projects/projects/724events/mock1.webp",
-            "../assets/projects/projects/724events/mock2.webp",
-            "../assets/projects/projects/724events/mock3.webp",
-            "../assets/projects/projects/724events/mock4.webp",
-            "../assets/projects/projects/724events/mock5.webp",
-            "../assets/projects/projects/724events/mock6.webp",
-            "../assets/projects/projects/724events/mock7.webp"
+            "../assets/projects/724 events/Mock0.png",
+            "../assets/projects/724 events/Mock1.png",
+            "../assets/projects/724 events/Mock2.png",
+            "../assets/projects/724 events/Mock3.png",
+            "../assets/projects/724 events/Mock4.png"
         ],
         "liens":["https://github.com/rinengaan/oc-projet10/tree/main"] 
     },
@@ -227,16 +225,9 @@
             "Responsive"
         ],
         "pictures": [
-            "../assets/projects/projects/argent-bank/mock0.webp",
-            "../assets/projects/projects/argent-bank/mock1.webp",
-            "../assets/projects/projects/argent-bank/mock2.webp",
-            "../assets/projects/projects/argent-bank/mock3.webp",
-            "../assets/projects/projects/argent-bank/mock4.webp",
-            "../assets/projects/projects/argent-bank/mock5.webp",
-            "../assets/projects/projects/argent-bank/mock6.webp",
-            "../assets/projects/projects/argent-bank/mock7.webp",
-            "../assets/projects/projects/argent-bank/mock8.webp",
-            "../assets/projects/projects/argent-bank/mock9.webp"
+            "../assets/projects/argent bank/Mock0.png"
+            
+            
         ],
         "liens":[ "https://github.com/rinengaan/oc-projet11"]
     }
