@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import { NavLink } from 'react-router-dom'
 import '../sass/components/dropdown.scss'
 
 function Dropdown({ type, category, content }) {
@@ -25,9 +26,9 @@ function Dropdown({ type, category, content }) {
                 (type === 'array' ? (
                     content.map((element) => {
                         return (
-                            <p key={element} className='list-content'>
+                            <NavLink to={element} className='list-content'>
                                 {element}
-                            </p>
+                            </NavLink>
                         )
                     })
                 ) : (

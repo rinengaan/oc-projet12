@@ -9,13 +9,14 @@
 
     & .list-content {
         display: flex;
+        font-size: 22px;
         flex-direction: column;
         padding: 5px 20px;
         background-color: #F6F6F673;
         border-radius: 5px;
         animation: slider 0.3s ease-in-out;
         transform-origin: top;
-
+        
         @media screen and (width <=768px) {
             font-size: 12px;
             font-weight: 400;
@@ -23,6 +24,9 @@
             padding: 2px 10px;
         }
     }
+    & a:hover {
+            text-decoration: underline;
+        }
 
     & .title-arrow {
         display: flex;

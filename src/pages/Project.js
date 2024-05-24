@@ -30,9 +30,9 @@ function Project() {
                     content={currentProject.description}
                 />
                 <Dropdown
-                    category='Équipements'
+                    category='Liens'
                     type='array'
-                    content={currentProject.equipments}
+                    content={currentProject.liens}
                 />
             </div>
         </section>

@@ -18,8 +18,7 @@
             "../assets/projects/riding-cities/Mock2.png",
             "../assets/projects/riding-cities/Mock3.png"
         ],
-        "site": "https://rinengaan.github.io/oc-projet2/",
-        "github": "https://github.com/rinengaan/oc-projet2/tree/new-modif"
+        "liens": ["https://rinengaan.github.io/oc-projet2/","https://github.com/rinengaan/oc-projet2/tree/new-modif"]
     },
     {
         "id": "project2",
@@ -41,8 +40,7 @@
             "src/assets/booki/Mock1.png",
             "src/assets/booki/Mock2.png"
         ],
-        "site": "https://rinengaan.github.io/oc-projet3/",
-        "github": "https://github.com/rinengaan/oc-projet3/tree/developpement"
+        "liens":["https://rinengaan.github.io/oc-projet3/","https://github.com/rinengaan/oc-projet3/tree/developpement"] 
     },
     {
         "id": "project3",
@@ -73,8 +71,7 @@
             "src/assets/ohmyfood/Mock2.png",
             "src/assets/ohmyfood/Mock3.png"
         ],
-        "site": "https://rinengaan.github.io/oc-projet4/",
-        "github": "https://github.com/rinengaan/oc-projet4/tree/main"
+        "liens":["https://rinengaan.github.io/oc-projet4/","https://github.com/rinengaan/oc-projet4/tree/main"]
     },
     {
         "id": "project4",
@@ -95,8 +92,7 @@
             "src/assets/print-it/Mock2.png",
             "src/assets/print-it/Mock3.png"
         ],
-        "site": "https://rinengaan.github.io/oc-projet5/",
-        "github": "https://github.com/rinengaan/oc-projet5"
+        "liens":["https://rinengaan.github.io/oc-projet5/","https://github.com/rinengaan/oc-projet5"]  
     },
     {
         "id": "project5",
@@ -120,7 +116,7 @@
             "src/assets/portfolio-sophie-bluel/Mock3.png",
             "src/assets/portfolio-sophie-bluel/Mock4.png"
         ],
-        "github": "https://github.com/rinengaan/oc-projet6/tree/main"
+        "liens":["https://github.com/rinengaan/oc-projet6/tree/main"] 
     },
     
     {
@@ -156,7 +152,7 @@
             "../assets/projects/projects/kasa/mock6.webp",
             "../assets/projects/projects/kasa/mock7.webp"
         ],
-        "github": "https://github.com/rinengaan/oc-projet8"
+        "liens":["https://github.com/rinengaan/oc-projet8"] 
     },
     {
         "id": "project7",
@@ -179,8 +175,7 @@
             "../assets/projects/projects/nina-carducci/mock6.webp",
             "../assets/projects/projects/nina-carducci/mock7.webp"
         ],
-        "site": "https://rinengaan.github.io/oc-projet9/",
-        "github": "https://github.com/rinengaan/oc-projet9/tree/main"
+        "liens":["https://rinengaan.github.io/oc-projet9/","https://github.com/rinengaan/oc-projet9/tree/main"] 
     },
     {
         "id": "project8",
@@ -206,7 +201,7 @@
             "../assets/projects/projects/724events/mock6.webp",
             "../assets/projects/projects/724events/mock7.webp"
         ],
-        "github": "https://github.com/rinengaan/oc-projet10/tree/main"
+        "liens":["https://github.com/rinengaan/oc-projet10/tree/main"] 
     },
     {
         "id": "project9",
@@ -243,6 +238,6 @@
             "../assets/projects/projects/argent-bank/mock8.webp",
             "../assets/projects/projects/argent-bank/mock9.webp"
         ],
-        "github": "https://github.com/rinengaan/oc-projet11"
+        "liens":[ "https://github.com/rinengaan/oc-projet11"]
     }
 ]
