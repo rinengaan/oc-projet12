@@ -1,0 +1,41 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 7rem;
+    margin-top: 45px;
+    color: black;
+    font-size: 33px;
+
+    @media screen and (width <=768px) {
+        font-size: 12px;
+        padding: 0 2rem;
+        padding-bottom: 1rem;
+        text-transform: uppercase;
+    }
+
+    &__logo {
+        width: auto;
+
+        @media screen and (width <=768px) {
+            & img {
+                width: 145px;
+            }
+        }
+    }
+
+    &__links {
+        display: flex;
+        justify-content: space-between;
+        gap: 57px;
+
+        @media screen and (width <=768px) {
+            gap: 26px;
+        }
+
+        & a:hover,
+        & .active {
+            text-decoration: underline;
+        }
+    }
+}

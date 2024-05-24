@@ -1,0 +1,7 @@
+.project-desc {
+    display: flex;
+
+    @media screen and (width <=768px) {
+        flex-direction: column;
+    }
+}
