@@ -8,7 +8,7 @@ function Footer() {
                 <img src={logo_nb} alt='Logo Kasa noir et blanc' />
             </div>
             <div className='footer__text'>
-                <span>© 2020 Kasa. All&nbsp;</span>rights reserved
+                <span>© 2024 Julia Aroux. All&nbsp;</span>rights reserved
             </div>
         </div>
     )

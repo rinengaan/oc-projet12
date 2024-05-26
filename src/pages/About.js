@@ -17,6 +17,7 @@ function About() {
                         key={about.category}
                         category={about.category}
                         content={about.content}
+                        type={about.type}
                     />
                 ))}
             </div>

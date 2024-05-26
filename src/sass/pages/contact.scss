@@ -1,0 +1,55 @@
+.send-form {
+    display: block;
+    width: 237px;
+    height: 36px;
+    border-radius: 60px;
+    background-color: #1D6154;
+    font-family: 'Syne';
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+    margin: 35px auto 15px auto;
+    cursor: pointer;
+}
+.send-form:hover {
+    background-color: #0E2F28;
+}
+
+#contact {
+    width: 50%;
+    margin: auto;
+}
+
+#contact>* {
+    text-align: center;
+}
+
+#contact h2 {
+    margin-bottom: 20px;
+}
+
+#contact form {
+    text-align: left;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+#contact input {
+    height: 50px;
+    font-size: 1.2em;
+    border: none;
+    box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.09);
+}
+
+#contact label {
+    margin: 2em 0 1em 0;
+}
+
+#contact textarea {
+    border: none;
+    box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.09);
+}

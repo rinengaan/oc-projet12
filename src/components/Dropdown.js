@@ -22,18 +22,36 @@ function Dropdown({ type, category, content }) {
                     onClick={showContent}
                 ></i>
             </div>
-            {isContentShown &&
-                (type === 'array' ? (
+            {isContentShown && 
+                (type === 'imgarray' ? (
+                    <div className='skills__languages-grid'>
+                        {content &&
+                            content.map((language) => (
+                                <div className='languages' key={language.id}>
+                                    <img
+                                        src={language.image}
+                                        alt={language.alt}
+                                    />
+                                    <p>{language.title}</p>
+                                </div>
+                            ))}
+                    </div>
+                ) : (type === 'array'?(
                     content.map((element) => {
                         return (
-                            <NavLink to={element} className='list-content'>
+                            <NavLink
+                                key={element}
+                                to={element}
+                                className='list-content'
+                            >
                                 {element}
                             </NavLink>
                         )
                     })
-                ) : (
+                ):(
                     <p className='list-content'>{content}</p>
-                ))}
+                )))
+            }
         </div>
     )
 }

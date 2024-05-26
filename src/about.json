@@ -1,18 +1,154 @@
 [
     {
-        "category": "Formation",
+        "category": "A propos de moi",
         "content": "Les annonces postées sur Kasa garantissent une fiabilité totale. Les photos sont conformes aux logements, et toutes les informations sont régulièrement vérifiées  par nos équipes."
     },
     {
         "category": "Competences",
-        "content": "La bienveillance fait partie des valeurs fondatrices de Kasa. Tout comportement discriminatoire ou de perturbation du voisinage entraînera une exclusion de notre plateforme."
+        "type": "imgarray",
+        "content": [
+            {
+                "id": "language1",
+                "title": "HTML 5",
+                "image": "../assets/languages/html5.svg",
+                "alt": "Icône HTML5"
+            },
+            {
+                "id": "language2",
+                "title": "CSS 3",
+                "image": "../assets/languages/css3.svg",
+                "alt": "Icône CSS3"
+            },
+            {
+                "id": "language3",
+                "title": "Sass",
+                "image": "../assets/languages/sass.svg",
+                "alt": "Icône Sass"
+            },
+            {
+                "id": "language4",
+                "title": "Bootstrap",
+                "image": "../assets/languages/bootstrap.svg",
+                "alt": "Icône Bootstrap"
+            },
+            {
+                "id": "language5",
+                "title": "JavaScript",
+                "image": "../assets/languages/javascript.svg",
+                "alt": "Icône JavaScript"
+            },
+            {
+                "id": "language6",
+                "title": "jQuery",
+                "image": "../assets/languages/jquery.svg",
+                "alt": "Icône jQuery"
+            },
+            {
+                "id": "language7",
+                "title": "React",
+                "image": "../assets/languages/react.svg",
+                "alt": "Icône React"
+            },
+            {
+                "id": "language8",
+                "title": "Redux",
+                "image": "../assets/languages/redux.svg",
+                "alt": "Icône Redux"
+            },
+            {
+                "id": "language9",
+                "title": "React-Router",
+                "image": "../assets/languages/react-router.svg",
+                "alt": "Icône React-Router"
+            },
+            {
+                "id": "language10",
+                "title": "Next.js",
+                "image": "../assets/languages/nextjs.png",
+                "alt": "Icône React-Router"
+            },
+            {
+                "id": "language11",
+                "title": "Node.js",
+                "image": "../assets/languages/nodejs.png",
+                "alt": "Icône React-Router"
+            },
+            {
+                "id": "language12",
+                "title": "Express",
+                "image": "../assets/languages/expressjs.png",
+                "alt": "Icône React-Router"
+            }
+        ]
     },
     {
-        "category": "Service",
-        "content": "La bienveillance fait partie des valeurs fondatrices de Kasa. Tout comportement discriminatoire ou de perturbation du voisinage entraînera une exclusion de notre plateforme."
+        "category": "Outils et Logiciels",
+        "type": "imgarray",
+        "content": [
+            {
+                "id": "tools1",
+                "title": "GitHub",
+                "image": "../assets/tools/github-mark.svg",
+                "alt": "Icône Github"
+            },
+            {
+                "id": "tools2",
+                "title": "Git",
+                "image": "../assets/tools/git-mark.svg",
+                "alt": "Icône Git"
+            },
+            {
+                "id": "tools3",
+                "title": "VSCode",
+                "image": "../assets/tools/vscode-mark.svg",
+                "alt": "Icône VSCode"
+            },
+            {
+                "id": "tools4",
+                "title": "Postman",
+                "image": "../assets/tools/postman-mark.svg",
+                "alt": "Icône Postman"
+            },
+            {
+                "id": "tools5",
+                "title": "Slack",
+                "image": "../assets/tools/slack-mark.svg",
+                "alt": "Icône Slack"
+            },
+            {
+                "id": "tools6",
+                "title": "Trello",
+                "image": "../assets/tools/trello-mark.svg",
+                "alt": "Icône Trello"
+            },
+            {
+                "id": "tools7",
+                "title": "Swagger",
+                "image": "../assets/tools/swagger-mark.svg",
+                "alt": "Icône Swagger"
+            },
+            {
+                "id": "tools8",
+                "title": "Figma",
+                "image": "../assets/tools/figma-mark.svg",
+                "alt": "Icône Figma"
+            },
+            {
+                "id": "tools9",
+                "title": "SEO",
+                "image": "../assets/tools/seo.svg",
+                "alt": "Icône SEO"
+            },
+            {
+                "id": "tools10",
+                "title": "ChatGPT",
+                "image": "../assets/tools/chatgpt-mark.svg",
+                "alt": "Icône ChatGPT"
+            }
+        ]
     },
     {
-        "category": "Sécurité",
-        "content": "La sécurité est la priorité de Kasa. Aussi bien pour nos hôtes que pour les voyageurs, chaque logement correspond aux critères de sécurité établis par nos services. En laissant une note aussi bien à l'hôte qu'au locataire, cela permet à nos équipes de vérifier que les standards sont bien respectés. Nous organisons également des ateliers sur la sécurité domestique pour nos hôtes."
+        "category": "Formation",
+        "content": "La bienveillance fait partie des valeurs fondatrices de Kasa. Tout comportement discriminatoire ou de perturbation du voisinage entraînera une exclusion de notre plateforme."
     }
 ]

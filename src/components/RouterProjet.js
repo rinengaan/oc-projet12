@@ -5,6 +5,7 @@ import Footer from './Footer'
 import Project from '../pages/Project'
 import About from '../pages/About'
 import Error from '../pages/Error'
+import { Contact } from '../pages/Contact'
 import '../sass/layouts/main.scss'
 
 function RouterProjet() {
@@ -16,7 +17,7 @@ function RouterProjet() {
                     <Route path='/' element={<Home />} />
                     <Route path='/project/:id' element={<Project />} />
                     <Route path='/about' element={<About />} />
-                    <Route path='/#' element={<Home />} />
+                    <Route path='/contact' element={<Contact />} />
                     <Route path='*' element={<Error />} />
                 </Routes>
             </div>

@@ -14,11 +14,20 @@
         text-transform: uppercase;
     }
 
-    &__logo {
-        width: auto;
+    @media screen and (width <=1200px) {
+        flex-direction: column;
+        padding: 0 1rem;
+    }
 
-        @media screen and (width <=768px) {
-            & img {
+    &__logo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        & img {
+            width: 100%;
+
+
+            @media screen and (width <=768px) {
                 width: 145px;
             }
         }
@@ -26,6 +35,7 @@
 
     &__links {
         display: flex;
+        width: fit-content;
         justify-content: space-between;
         gap: 57px;
 

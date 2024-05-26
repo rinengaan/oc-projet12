@@ -7,8 +7,8 @@ function Home() {
         <>
             <Banner
                 src={image}
-                alt='crique avec reliefs'
-                text='Formation intégrateur web : Mes projets'
+                alt='dessin de type manga'
+                text='Intégrateur web : Mes projets'
             />
             <ProjectGrid />
         </>
