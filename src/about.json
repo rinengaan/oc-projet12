@@ -1,7 +1,7 @@
 [
     {
         "category": "A propos de moi",
-        "content": "Les annonces postées sur Kasa garantissent une fiabilité totale. Les photos sont conformes aux logements, et toutes les informations sont régulièrement vérifiées  par nos équipes."
+        "content": "Julia Aroux, développeuse web passionnée, spécialisée en front-end. Ayant récemment terminé une formation d'intégrateur web sur OpenClassrooms, j'ai réalisé une reconversion professionnelle réussie pour suivre ma véritable passion. Débutante dans le domaine, je suis en train d'acquérir une solide maîtrise des technologies front-end. Je me distingue par ma capacité à comprendre les besoins des clients et à les traduire en interfaces utilisateur élégantes et fonctionnelles. Je met un point d'honneur à livrer des projets de haute qualité, en offrant un service personnalisé et une attention méticuleuse aux détails. Je suis la développeuse qu'il vous faut pour transformer vos idées en réalité digitale."
     },
     {
         "category": "Competences",
@@ -146,9 +146,5 @@
                 "alt": "Icône ChatGPT"
             }
         ]
-    },
-    {
-        "category": "Formation",
-        "content": "La bienveillance fait partie des valeurs fondatrices de Kasa. Tout comportement discriminatoire ou de perturbation du voisinage entraînera une exclusion de notre plateforme."
     }
 ]

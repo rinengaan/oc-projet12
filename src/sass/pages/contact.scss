@@ -1,3 +1,51 @@
+#contact {
+    width: 75%;
+    margin: auto;
+
+    &>* {
+        text-align: center;
+    }
+
+    & h2 {
+        margin-bottom: 20px;
+    }
+
+    & form {
+        text-align: left;
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+
+        @media screen and (width <=768px) {
+            margin-top: 10px;
+        }
+    }
+
+    & input {
+        height: 50px;
+        font-size: 1.2em;
+        border: none;
+        box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.09);
+
+        @media screen and (width <=768px) {
+            height: 25px;
+        }
+    }
+
+    & label {
+        margin: 2em 0 1em 0;
+
+        @media screen and (width <=768px) {
+            margin: 1em 0 0.5em 0;
+        }
+    }
+
+    & textarea {
+        border: none;
+        box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.09);
+    }
+}
+
 .send-form {
     display: block;
     width: 237px;
@@ -13,43 +61,16 @@
     color: white;
     margin: 35px auto 15px auto;
     cursor: pointer;
+    @media screen and (width <=768px) {
+            width: 114px;
+                height: 18px;
+                border-radius: 60px;
+                font-size: 12px;
+                    line-height: 18px;
+                    margin: 18px auto 8px auto;
+        }
 }
+
 .send-form:hover {
     background-color: #0E2F28;
-}
-
-#contact {
-    width: 50%;
-    margin: auto;
-}
-
-#contact>* {
-    text-align: center;
-}
-
-#contact h2 {
-    margin-bottom: 20px;
-}
-
-#contact form {
-    text-align: left;
-    margin-top: 30px;
-    display: flex;
-    flex-direction: column;
-}
-
-#contact input {
-    height: 50px;
-    font-size: 1.2em;
-    border: none;
-    box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.09);
-}
-
-#contact label {
-    margin: 2em 0 1em 0;
-}
-
-#contact textarea {
-    border: none;
-    box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.09);
 }
