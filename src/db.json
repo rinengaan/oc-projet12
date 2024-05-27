@@ -18,14 +18,17 @@
             "../assets/projects/riding-cities/Mock2.png",
             "../assets/projects/riding-cities/Mock3.png"
         ],
-        "liens": ["https://rinengaan.github.io/oc-projet2/","https://github.com/rinengaan/oc-projet2/tree/new-modif"]
+        "liens": [
+            "https://rinengaan.github.io/oc-projet2/",
+            "https://github.com/rinengaan/oc-projet2/tree/new-modif"
+        ]
     },
     {
         "id": "project2",
         "title": "Booki",
         "category": "HTML",
         "briefDescription": "Booki est une start-up qui souhaite permettre aux utilisateurs de trouver des hébergements et des activités dans la ville de leur choix.",
-        "cover": "../assets/projects/booki/cover-booki.png",
+        "cover": "../assets/projects/booki/cover-booki.webp",
         "alt": "Photo d'un hébergement du site de Booki",
         "description": "Le projet 3 du parcours Intégrateur Web d'OpenClassrooms nous permet d'intégrer l'interface du site de Booki en utilisant du code HTML et CSS.",
         "mission": "Je rejoins la start-up Booki en tant que développeur en alternance. Je travaille en étroite collaboration avec ma cheffe technique Sarah et le designer Loïc pour mettre en place l'interface du site et responsive.",
@@ -36,20 +39,22 @@
         ],
         "tags": ["HTML", "CSS", "Responsive", "VSCode", "Figma"],
         "pictures": [
-            "../assets/projects/booki/Mock0.png",
-            "../assets/projects/booki/Mock1.png",
-            "../assets/projects/booki/Mock2.png",
-            "../assets/projects/booki/Mock3.png",
-            "../assets/projects/booki/Mock4.png"
+            "../assets/projects/booki/Mock0.webp",
+            "../assets/projects/booki/Mock1.webp",
+            "../assets/projects/booki/Mock2.webp",
+            "../assets/projects/booki/Mock3.webp"
         ],
-        "liens":["https://rinengaan.github.io/oc-projet3/","https://github.com/rinengaan/oc-projet3/tree/developpement"] 
+        "liens": [
+            "https://rinengaan.github.io/oc-projet3/",
+            "https://github.com/rinengaan/oc-projet3/tree/developpement"
+        ]
     },
     {
         "id": "project3",
         "title": "Ohmyfood",
         "category": "HTML",
         "briefDescription": "Ohmyfood est une jeune start-up qui souhaite s'imposer sur le marché de la restauration. Déjà présente à New-York, elle souhaite faire sa place à Paris.",
-        "cover": "../assets/projects/ohmyfood/cover-ohmyfood.png",
+        "cover": "../assets/projects/ohmyfood/cover-ohmyfood.webp",
         "alt": "Photo d'un plat d'un restaurant",
         "description": "Le projet 4 du parcours Intégrateur Web d'OpenClassrooms consite à intégrer l'interface du site d'Ohmyfood en commençant par la version mobile.",
         "mission": "Je rejoins la start-up Ohmyfood qui souhaite s'imposer sur la marché de la restauration parisienne. Paul, mon chef technique, me demande alors d'intégrer l'interface mobile et responsive tout en mettant en place des animations CSS.",
@@ -68,19 +73,22 @@
             "GitHub"
         ],
         "pictures": [
-            "../assets/projects/ohmyfood/Mock0.png",
-            "../assets/projects/ohmyfood/Mock1.png",
-            "../assets/projects/ohmyfood/Mock2.png",
-            "../assets/projects/ohmyfood/Mock3.png"
+            "../assets/projects/ohmyfood/Mock0.webp",
+            "../assets/projects/ohmyfood/Mock1.webp",
+            "../assets/projects/ohmyfood/Mock2.webp",
+            "../assets/projects/ohmyfood/Mock3.webp"
         ],
-        "liens":["https://rinengaan.github.io/oc-projet4/","https://github.com/rinengaan/oc-projet4/tree/main"]
+        "liens": [
+            "https://rinengaan.github.io/oc-projet4/",
+            "https://github.com/rinengaan/oc-projet4/tree/main"
+        ]
     },
     {
         "id": "project4",
         "title": "Print It",
         "category": "JavaScript",
         "briefDescription": "Print It est une petite entreprise familiale. Elle souhaite dynamiser son site internet en y ajoutant un carrousel.",
-        "cover": "../assets/projects/print-it/cover-print-it.png",
+        "cover": "../assets/projects/print-it/cover-print-it.webp",
         "alt": "Photo d'imagerie",
         "description": "Le projet 5 du parcours Intégrateur Web d'OpenClassrooms nous permet de découvrir le langage JavaScript au travers du site de Print It.",
         "mission": "Je débute en tant que développeur front-end en freelance, et je décroche l'offre qui consiste à dynamiser le site Internet statique de Print It. Le directeur, Lucien Gerodo, me demande alors de réaliser un carrousel dynamique.",
@@ -89,22 +97,25 @@
         ],
         "tags": ["HTML", "CSS", "JavaScript", "VSCode"],
         "pictures": [
-            "../assets/projects/print-it/Mock0.png",
-            "../assets/projects/print-it/Mock1.png",
-            "../assets/projects/print-it/Mock2.png",
-            "../assets/projects/print-it/Mock3.png",
-            "../assets/projects/print-it/Mock4.png",
-            "../assets/projects/print-it/Mock5.png",
-            "../assets/projects/print-it/Mock6.png"
+            "../assets/projects/print-it/Mock0.webp",
+            "../assets/projects/print-it/Mock1.webp",
+            "../assets/projects/print-it/Mock2.webp",
+            "../assets/projects/print-it/Mock3.webp",
+            "../assets/projects/print-it/Mock4.webp",
+            "../assets/projects/print-it/Mock5.webp",
+            "../assets/projects/print-it/Mock6.webp"
         ],
-        "liens":["https://rinengaan.github.io/oc-projet5/","https://github.com/rinengaan/oc-projet5"]  
+        "liens": [
+            "https://rinengaan.github.io/oc-projet5/",
+            "https://github.com/rinengaan/oc-projet5"
+        ]
     },
     {
         "id": "project5",
         "title": "Portfolio - Sophie Bluel",
         "category": "JavaScript",
         "briefDescription": "Sophie Bluel est une architecte d'intérieur qui souhaite mettre en avant son travail avec un site portfolio où elle pourra elle-même les ajouter en se connectant à son interface administrateur.",
-        "cover": "../assets/projects/portfolio-sophie-bluel/cover-portfolio-sophie-bluel.png",
+        "cover": "../assets/projects/portfolio-sophie-bluel/cover-portfolio-sophie-bluel.webp",
         "alt": "Photo de rénovation d'un bar",
         "description": "Le projet 6 du parcours Intégrateur Web d'OpenClassrooms nous emmène sur la conception du site portfolio d'une architecte en utilisant JavaScript et en communiquant avec une API.",
         "mission": "Je travaille comme développeur front-end pour l'agence ArchiWebos. Ayant terminé mon dernier projet, je suis envoyé en renfort sur la conception du site portfolio de l'architecte Sophie Bluel. Charlotte, la cheffe de projet, me demande alors de créer à partir de la maquette l'interface du site ainsi que la gestion du compte de l'architecte en communiquant avec une API créée par la développeuse back-end. La connexion avec l'API permettra à Sophie Bluel de pouvoir se connecter et intéragir en ajoutant / supprimant ses travaux.",
@@ -115,23 +126,20 @@
         ],
         "tags": ["HTML", "CSS", "JavaScript", "Figma", "API", "Swagger"],
         "pictures": [
-            "../assets/projects/portfolio-sophie-bluel/Mock0.png",
-            "../assets/projects/portfolio-sophie-bluel/Mock1.png",
-            "../assets/projects/portfolio-sophie-bluel/Mock2.png",
-            "../assets/projects/portfolio-sophie-bluel/Mock3.png",
-            "../assets/projects/portfolio-sophie-bluel/Mock4.png",
-            "../assets/projects/portfolio-sophie-bluel/Mock5.png",
-            "../assets/projects/portfolio-sophie-bluel/Mock6.png"
+            "../assets/projects/portfolio-sophie-bluel/Mock0.webp",
+            "../assets/projects/portfolio-sophie-bluel/Mock1.webp",
+            "../assets/projects/portfolio-sophie-bluel/Mock2.webp",
+            "../assets/projects/portfolio-sophie-bluel/Mock3.webp"
         ],
-        "liens":["https://github.com/rinengaan/oc-projet6/tree/main"] 
+        "liens": ["https://github.com/rinengaan/oc-projet6/tree/main"]
     },
-    
+
     {
         "id": "project6",
         "title": "Kasa",
         "category": "React",
         "briefDescription": "Kasa est dans le métier de la location d'appartements entre particuliers depuis maintenant 10 ans, et souhaite aujourd'hui développer une nouvelle plateforme web avec React.",
-        "cover": "../assets/projects/kasa/cover_kasa.png",
+        "cover": "../assets/projects/kasa/cover_kasa.webp",
         "alt": "Logo de Kasa",
         "description": "Le projet 8 du parcours Intégrateur Web d'OpenClassrooms consiste à développer la nouvelle plateforme web de Kasa en utilisant React.",
         "mission": "Kasa me recrute en tant que développeur front-end en freelance. Laura, la cheffe technique, me demande de mettre en place la nouvelle plateforme web en utilisant React, grâce aux maquettes créées par Paul le designer de l'équipe.",
@@ -150,40 +158,42 @@
             "Figma"
         ],
         "pictures": [
-            "../assets/projects/kasa/Mock0.png",
-            "../assets/projects/kasa/Mock1.png",
-            "../assets/projects/kasa/Mock2.png"
+            "../assets/projects/kasa/Mock0.webp",
+            "../assets/projects/kasa/Mock1.webp",
+            "../assets/projects/kasa/Mock2.webp",
+            "../assets/projects/kasa/Mock3.webp",
+            "../assets/projects/kasa/Mock4.webp"
         ],
-        "liens":["https://github.com/rinengaan/oc-projet8"] 
+        "liens": ["https://github.com/rinengaan/oc-projet8"]
     },
     {
         "id": "project7",
         "title": "Nina Carducci",
         "category": "SEO",
         "briefDescription": "Je propose mes services d'optimisation SEO à plusieurs clients. Et Nina Carducci, photographe expérimentée basée à Bordeaux accepte ma proposition d'optimisation de son site.",
-        "cover": "../assets/projects/nina carducci/cover_nina.png",
+        "cover": "../assets/projects/nina carducci/cover_nina.webp",
         "alt": "Photo de mariage prise par Nina Carducci",
         "description": "Le projet 9 du parcours Intégrateur Web d'OpenClassrooms consiste à améliorer les performances et le référencement naturel du site d'un client.",
         "mission": "Je suis développeur front-end en freelance, et je me décide à proposer mes services d'optimisation SEO à de nouveaux clients. Je prends contact avec les administrateurs de divers sites pouvant être optimisés. Nina Carducci, photographe professionnelle à Bordeaux, accepte ma proposition d'optimisation de son site. Ma mission est donc d'optimiser son site tant sur les performances que sur le SEO. Et de mettre en avant cette optimisation en lui fournissant un rapport d'optimisation, lui présentant toutes les actions effectuées ainsi que leur impact.",
         "competences": ["Optimiser la performance d'un site web."],
         "tags": ["HTML", "CSS", "JavaScript", "Responsive", "SEO"],
         "pictures": [
-            "../assets/projects/nina carducci/Mock0.png",
+            "../assets/projects/nina carducci/Mock0.webp",
             "../assets/projects/nina carducci/Mock1.webp",
             "../assets/projects/nina carducci/Mock2.webp",
-            "../assets/projects/nina carducci/Mock3.webp",
-            "../assets/projects/nina carducci/Mock4.png",
-            "../assets/projects/nina carducci/Mock5.webp"
-            
+            "../assets/projects/nina carducci/Mock3.webp"
         ],
-        "liens":["https://rinengaan.github.io/oc-projet9/","https://github.com/rinengaan/oc-projet9/tree/main"] 
+        "liens": [
+            "https://rinengaan.github.io/oc-projet9/",
+            "https://github.com/rinengaan/oc-projet9/tree/main"
+        ]
     },
     {
         "id": "project8",
         "title": "724 events",
         "category": "Debug",
         "briefDescription": "L'agence d'événementielle 724events me contacte pour son site vitrine afin de reprendre le développement et débugger le travail déjà mis en place par un autre développeur.",
-        "cover": "../assets/projects/724 events/cover_724events.png",
+        "cover": "../assets/projects/724 events/cover_724events.webp",
         "alt": "Conférence d'un événement de 724events",
         "description": "Le projet 10 du parcours Intégrateur Web consiste à débugger le site d'une agence d'événementiel appelée 724events.",
         "mission": "Je suis développeur front-end en freelance et l'agence 724events me contacte. La mission confiée par Jean-Baptiste, le directeur marketing, est la suivante : débugger le code du site déjà mis en place par un autre développeur qui a dû arrêté le développement, mettre en place des tests unitaires et fonctionnels ainsi que la rédaction d'un cahier de recette comprenant les différents scénarios possibles pour tester le site.",
@@ -193,20 +203,20 @@
         ],
         "tags": ["React", "Tests", "Debug", "Chrome DevTools"],
         "pictures": [
-            "../assets/projects/724 events/Mock0.png",
-            "../assets/projects/724 events/Mock1.png",
-            "../assets/projects/724 events/Mock2.png",
-            "../assets/projects/724 events/Mock3.png",
-            "../assets/projects/724 events/Mock4.png"
+            "../assets/projects/724 events/Mock0.webp",
+            "../assets/projects/724 events/Mock1.webp",
+            "../assets/projects/724 events/Mock2.webp",
+            "../assets/projects/724 events/Mock3.webp",
+            "../assets/projects/724 events/Mock4.webp"
         ],
-        "liens":["https://github.com/rinengaan/oc-projet10/tree/main"] 
+        "liens": ["https://github.com/rinengaan/oc-projet10/tree/main"]
     },
     {
         "id": "project9",
         "title": "Argent Bank",
         "category": "React",
         "briefDescription": "J'intègre Argent Bank, une nouvelle banque en ligne qui souhaite que j'implémente le front-end de son application en utilisant React.",
-        "cover": "../assets/projects/argent bank/cover_argent_bank.png",
+        "cover": "../assets/projects/argent bank/cover_argent_bank.webp",
         "alt": "Bannière du site",
         "description": "Le projet 11 du parcours Intégrateur Web d'OpenClassrooms consiste à implémenter le front-end d'une application bancaire : Argent Bank en utilisant React.",
         "mission": "J'intègre Argent Bank comme développeur front-end. Avery Moreau, chef technique, me confie la mission d'implémenter le front-end de notre application et le tableau de bord de l'utilisateur en communiquant avec l'API.",
@@ -225,10 +235,10 @@
             "Responsive"
         ],
         "pictures": [
-            "../assets/projects/argent bank/Mock0.png"
-            
-            
+            "../assets/projects/argent bank/Mock0.webp",
+            "../assets/projects/argent bank/Mock1.webp",
+            "../assets/projects/argent bank/Mock2.webp"
         ],
-        "liens":[ "https://github.com/rinengaan/oc-projet11"]
+        "liens": ["https://github.com/rinengaan/oc-projet11"]
     }
 ]
