@@ -6,10 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 portfolio julia aroux
 
-pageHome:
-<img src='src/images/homepage.png' alt="screenshot"/>
+![portfolio](src/images/logo.png)
 
 ## 2- Project
+
+Pour ce projet, vous allez créer votre site portfolio que vous pourrez présenter aux recruteurs. Il s’agit d’un outil incontournable pour le développeur, qui a deux objectifs : 
+
+Il permet de vous présenter, de lister vos compétences et de montrer les projets sur lesquels vous avez travaillé.
+Il permet de démontrer vos compétences via le code du site lui-même ainsi que son interface. 
 
 ### 2-1 Technologies and Prerequisites
 

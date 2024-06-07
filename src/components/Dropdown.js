@@ -42,6 +42,7 @@ function Dropdown({ type, category, content }) {
                             <NavLink
                                 key={element}
                                 to={element}
+                                target='_blank'
                                 className='list-content'
                             >
                                 {element}
